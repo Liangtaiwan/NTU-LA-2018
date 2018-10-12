@@ -1,4 +1,4 @@
-# NTU_LA_2018
+# NTU-LA-2018
 
 ## How to Use?
 1. Clone or download the repo to your device.
